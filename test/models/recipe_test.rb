@@ -4,8 +4,8 @@ class Recipe < ActiveSupport::TestCase
 
   def setup
 
-  @recipe = Recipe.new(name: "Chicken parm",summary: "This is the best chicken parm
-            ever",discription: "heat oil, add onion, add chicken, cook for 20 min")
+  @recipe = Recipe.new(name: 'Chicken parm',summary: 'This is the best chicken parm
+            ever',discription: 'heat oil, add onion, add chicken, cook for 20 min')
   end
 
   test "recipe should be valid" do
