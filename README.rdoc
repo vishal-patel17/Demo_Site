@@ -1,4 +1,4 @@
 Recipe:
-- name must be  with
+- name must be present with
 - summary
 - description
