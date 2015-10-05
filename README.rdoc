@@ -1,3 +1,0 @@
-Chef:
-
-1. chefname must be present
