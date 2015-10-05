@@ -1,4 +1,3 @@
-Recipe:
-- name must be present with
-- summary
-- description
+Chef:
+
+1. chefname must be present
